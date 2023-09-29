@@ -25,5 +25,3 @@ console.log(alunos instanceof Array);
 // console.log(alunos.length); // 4
 // console.log(alunos[0]);
 // console.log(alunos[2]);
-
-// Teste
